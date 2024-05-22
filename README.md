@@ -46,7 +46,7 @@ A user-friendly currency converter web application built with React (frontend) a
 #
 **🩻Project Structure:**
 
-👨‍🌾 **client**: Contains the React frontend code.
+👨‍🌾 **client**: Contains the React frontend code.  
 👨‍💼 **server**: Contains the Node.js backend code.
 
 #
