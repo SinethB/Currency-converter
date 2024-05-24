@@ -58,7 +58,7 @@ The React component handles user interaction, form handling, and displaying the 
 
 The backend server:
 
-1. Fetches currency names and historical exchange rates using an API (e.g., Open Exchange Rates).
+1. Fetches currency names and historical exchange rates using an API (Open Exchange Rates).
 2. Processes conversion requests based on user input and retrieved rates.
 3. Returns the converted amount to the frontend.
 
