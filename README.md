@@ -1,8 +1,8 @@
-# 💰React-Currency-converter
+# 💰React Currency converter
 
 A user-friendly currency converter web application built with React (frontend) and Node.js (backend). It empowers users to convert between various currencies with ease, leveraging historical exchange rates for accurate calculations.
-
-**🗝️Key features:**
+#
+## **🗝️Key features:**
 
 1. Intuitive interface: A clean and straightforward design simplifies selecting currencies and entering amounts.
 2. Historical accuracy: Utilizes historical exchange rates to provide reliable conversion results.
@@ -10,13 +10,12 @@ A user-friendly currency converter web application built with React (frontend) a
 4. This application is ideal for travelers, international business professionals, or anyone who needs to manage finances across different currencies.
 
 #
-**🚀Getting Started....**
 
-**🥋Prerequisites:**
+## **🥋Prerequisites:**
 
 - Node.js : https://nodejs.org/en
-
-**🪄Installation:**
+#
+## **🪄Installation:**
 
 1. Clone this repository:
 
@@ -32,7 +31,7 @@ A user-friendly currency converter web application built with React (frontend) a
    npm install
    
 #
-**🏇Running the application**
+## **🏇Running the application**
 
 1. Start the backend server:
    ```bash
@@ -44,18 +43,18 @@ A user-friendly currency converter web application built with React (frontend) a
    npm start
 
 #
-**🩻Project Structure:**
+## **🩻Project Structure:**
 
 👨‍🌾 **client**: Contains the React frontend code.  
 👨‍💼 **server**: Contains the Node.js backend code.
 
 #
-**💌Frontend (React):**
+## **💌Frontend (React):**
 
 The React component handles user interaction, form handling, and displaying the converted amount.
 
 #
-**📝Backend (Node.js):**
+## **📝Backend (Node.js):**
 
 The backend server:
 
@@ -64,11 +63,12 @@ The backend server:
 3. Returns the converted amount to the frontend.
 
 #
-**📬API Used:**
+## **📬API Used:**
 
 This project used the Open Exchange Rates API (https://openexchangerates.org/) service to retrieve historical exchange rates.
 
 # 
-**📊Interface:**
+## **📊Interface:**
 ![Currency converter](/images/interface.png)
+
 
