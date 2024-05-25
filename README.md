@@ -4,9 +4,9 @@ A user-friendly currency converter web application built with React (frontend) a
 #
 ## **🗝️Key features:**
 
-1. Intuitive interface: A clean and straightforward design simplifies selecting currencies and entering amounts.
-2. Historical accuracy: Utilizes historical exchange rates to provide reliable conversion results.
-3. Clear display: The converted amount is presented prominently for easy comprehension.
+1. **Intuitive interface**: A clean and straightforward design simplifies selecting currencies and entering amounts.
+2. **Historical accuracy**: Utilizes historical exchange rates to provide reliable conversion results.
+3. **Clear display**: The converted amount is presented prominently for easy comprehension.
 4. This application is ideal for travelers, international business professionals, or anyone who needs to manage finances across different currencies.
 
 #
