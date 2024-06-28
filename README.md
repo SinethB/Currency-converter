@@ -1,4 +1,4 @@
-# 💰React Currency converter
+# 💰Currency converter
 
 A user-friendly currency converter web application built with React (frontend) and Node.js (backend). It empowers users to convert between various currencies with ease, leveraging historical exchange rates for accurate calculations.
 #
